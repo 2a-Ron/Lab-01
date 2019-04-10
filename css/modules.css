@@ -1,7 +1,7 @@
 #slot-a {
     width: 480px;
     height: 75px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(235, 220, 179);
     border-top: 1px;
     border-right: 1px;
     border-bottom: 0px;
@@ -16,7 +16,7 @@
 #slot-b {
     width: 480px;
     height: 150px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(211, 148, 123);
     border-top: 1px;
     border-right: 1px;
     border-bottom: 0px;
@@ -30,7 +30,7 @@
 #slot-c {
     width: 480px;
     height: 125px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(190, 221, 118);
     border-top: 1px;
     border-right: 1px;
     border-bottom: 0px;
@@ -44,7 +44,7 @@
 #slot-d {
     width: 480px;
     height: 125px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(105, 226, 111);
     border-top: 1px;
     border-right: 1px;
     border-bottom: 0px;
@@ -58,7 +58,7 @@
 #slot-e {
     width: 240px;
     height: 250px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(192, 247, 192);
     border-top: 1px;
     border-right: 0px;
     border-bottom: 0px;
@@ -72,7 +72,7 @@
 #slot-f {
     width: 240px;
     height: 250px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(140, 230, 225);
     border-top: 1px;
     border-right: 1px;
     border-bottom: 0px;
@@ -86,7 +86,7 @@
 #slot-g {
     width: 240px;
     height: 250px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(165, 144, 223);
     border-top: 1px;
     border-right: 0px;
     border-bottom: 0px;
@@ -100,7 +100,7 @@
 #slot-h {
     width: 240px;
     height: 250px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(108, 10, 153);
     border-top: 1px;
     border-right: 1px;
     border-bottom: 0px;
@@ -114,7 +114,7 @@
 #slot-i {
     width: 480px;
     height: 80px;
-    background-color: rgb(207, 204, 196);
+    background-color: rgb(211, 2, 2);
     border: 1px solid black;
     box-sizing: border-box;
     text-align: center;
