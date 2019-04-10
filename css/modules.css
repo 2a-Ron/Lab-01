@@ -1,0 +1,122 @@
+#slot-a {
+    width: 480px;
+    height: 75px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 25px;
+}
+
+#slot-b {
+    width: 480px;
+    height: 150px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 65px;
+}
+#slot-c {
+    width: 480px;
+    height: 125px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 50px;
+}
+#slot-d {
+    width: 480px;
+    height: 125px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 50px;
+}
+#slot-e {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 115px;
+}
+#slot-f {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 115px;
+}
+#slot-g {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 115px;
+}
+#slot-h {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(207, 204, 196);
+    border-top: 1px;
+    border-right: 1px;
+    border-bottom: 0px;
+    border-left: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 115px;
+}
+#slot-i {
+    width: 480px;
+    height: 80px;
+    background-color: rgb(207, 204, 196);
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 35px;
+}
