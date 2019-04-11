@@ -11,4 +11,10 @@ body {
 div {
     float: left;
 }
-
+/* break point. enter desktop mode */
+@media (min-width: 769px) {
+    .l-section-container {
+        width: 960px;
+        margin: 0 auto;
+    }
+}
